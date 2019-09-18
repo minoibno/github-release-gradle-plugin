@@ -1,0 +1,16 @@
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.idea
+*.iml
+out/
+.attach_pid*
+*.iws
+*.ipr
+.vscode/
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
